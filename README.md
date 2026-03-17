@@ -78,8 +78,3 @@ Then access:
 * Got hands-on with Linux, networking, and debugging real deployment issues
 * Built something close to real-world DevOps monitoring setups
 
----
-
-## Repo
-
-https://github.com/MoFarhan01/aws-prometheus-grafana-monitoring
