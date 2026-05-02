@@ -1,4 +1,4 @@
-# AWS Monitoring Stack — Prometheus & Grafana
+# AWS Observability Stack — Prometheus & Grafana
 
 Built a simple monitoring setup on AWS using Prometheus, Node Exporter, and Grafana to track system performance in real time.
 
